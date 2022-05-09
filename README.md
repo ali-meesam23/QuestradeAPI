@@ -5,7 +5,9 @@ It allows the user to gain access to realtime quotes (if market data package is 
 Add the following PATHs to your shell (.bash_profile or .zshrc):
 '''
 `sudo nano ~/.zshrc or ~/.bash_profile
+
 export QUESTRADE_AUTH_PATH=“$HOME/.pswd/questrade_access_token”
+
 export STOCK_DATA_PATH=“$HOME/Location_to_Data_Archive_Folder/"`
 '''
 
