@@ -1,0 +1,45 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+node_modules/
+.tmp/
+# OS or Editor folders
+.DS_Store
+.DS_store
+
+Thumbs.db
+.ipynb_checkpoints
+.idea
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+_notes
+dwsync.xml
+# Ignore node modules folder
+node_modules
+# Ignore files relared to API Keys
+.env
+credentials.cfg
+# Ignore SASS config files
+.sass-cache
+# Ignore Folders
+venv
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.vscode
